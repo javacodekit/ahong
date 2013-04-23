@@ -6,7 +6,7 @@ public class Test1 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("ÎÒµÄ²âÊÔ");
+		System.out.println("æˆ‘çš„æµ‹è¯•");
 	}
 
 }
